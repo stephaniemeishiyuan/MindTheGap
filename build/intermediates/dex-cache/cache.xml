@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/meishiyuan/Desktop/FirebaseAuth/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="/Users/meishiyuan/Desktop/FirebaseAuth/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.0.2_6911a719af1bbda85358b37c7152ddb52329a1d1.jar" />
+    </item>
+    <item
+        jar="/Users/meishiyuan/Desktop/FirebaseAuth/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="79e298d7fed2fcada58da7032d07d34ee198a545">
+        <dex dex="/Users/meishiyuan/Desktop/FirebaseAuth/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-module-9.0.2_5afd1df5164f3175ddf4ae202306df75d8da6ec2.jar" />
+    </item>
+    <item
+        jar="/Users/meishiyuan/Desktop/FirebaseAuth/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="/Users/meishiyuan/Desktop/FirebaseAuth/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.0.2_51f111e6cdfed76c43b2b239934b05ad239e7721.jar" />
+    </item>
+    <item
+        jar="/Users/meishiyuan/Desktop/FirebaseAuth/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/meishiyuan/Desktop/FirebaseAuth/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_9ed7270af4e4abb1fb29fc5dd2d04664529ab2e8.jar" />
+    </item>
+    <item
+        jar="/Users/meishiyuan/Desktop/FirebaseAuth/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fa472b7cbd3897bf6bed6068ac0b00e494987688">
+        <dex dex="/Users/meishiyuan/Desktop/FirebaseAuth/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-9.0.2_15d8f0e542569d9599e1de91cc5f784dfbfb722a.jar" />
+    </item>
+    <item
+        jar="/Users/meishiyuan/Desktop/FirebaseAuth/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="/Users/meishiyuan/Desktop/FirebaseAuth/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.0.2_0f8e2c985c5210598f744c90e0f7a8e370359ac7.jar" />
+    </item>
+    <item
+        jar="/Users/meishiyuan/Desktop/FirebaseAuth/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/meishiyuan/Desktop/FirebaseAuth/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_447c2d99cd88ef11cdcb8b893af075eeff568adf.jar" />
+    </item>
+    <item
+        jar="/Users/meishiyuan/Desktop/FirebaseAuth/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/meishiyuan/Desktop/FirebaseAuth/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.4.0_ba218e54a60823a4cc01ff4fcc6efa9aa789fa86.jar" />
+    </item>
+    <item
+        jar="/Users/meishiyuan/Desktop/FirebaseAuth/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="/Users/meishiyuan/Desktop/FirebaseAuth/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.0.2_c88da61a9468e5ff98142f740d3b2f9c3b628d38.jar" />
+    </item>
+    <item
+        jar="/Users/meishiyuan/Desktop/FirebaseAuth/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/meishiyuan/Desktop/FirebaseAuth/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_ef325c2825cd69e658fc2f4e7ebe61a9d0d36b95.jar" />
+    </item>
+    <item
+        jar="/Users/meishiyuan/Desktop/FirebaseAuth/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/meishiyuan/Desktop/FirebaseAuth/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_e2be74a1a3c303428e5d84a0ed09c592c50c0645.jar" />
+    </item>
+    <item
+        jar="/Users/meishiyuan/Desktop/FirebaseAuth/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="568d5bda0b4d51f90d978ace369bb9ad024d2057">
+        <dex dex="/Users/meishiyuan/Desktop/FirebaseAuth/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-common-9.0.2_b56dfedef63a2523a9b63373893bb9f46f5d972b.jar" />
+    </item>
+    <item
+        jar="/Users/meishiyuan/Desktop/FirebaseAuth/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="/Users/meishiyuan/Desktop/FirebaseAuth/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.0.2_d84a1d470100904c644b4662701e6d1bd6cba23a.jar" />
+    </item>
+    <item
+        jar="/Users/meishiyuan/Desktop/FirebaseAuth/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/meishiyuan/Desktop/FirebaseAuth/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_6cdd13242c03355213d62508137153b5158721f3.jar" />
+    </item>
+    <item
+        jar="/Users/meishiyuan/Desktop/FirebaseAuth/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="/Users/meishiyuan/Desktop/FirebaseAuth/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.0.2_983104cd572f43e493ea12d150ad0dc2beb6be0e.jar" />
+    </item>
+    <item
+        jar="/Users/meishiyuan/Desktop/FirebaseAuth/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/meishiyuan/Desktop/FirebaseAuth/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_f751a78be712bd12f37844fce1067b4c762b22a0.jar" />
+    </item>
+    <item
+        jar="/Users/meishiyuan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/meishiyuan/Desktop/FirebaseAuth/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_513088e469f931c3ad578eb5ae95003afde7daeb.jar" />
+    </item>
+    <item
+        jar="/Users/meishiyuan/Desktop/FirebaseAuth/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="/Users/meishiyuan/Desktop/FirebaseAuth/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.0.2_d6ecd39df8423192bbe1a01a3429dd0e53d7dfed.jar" />
+    </item>
+
+</items>
